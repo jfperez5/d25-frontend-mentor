@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+    --font-roboto: "Roboto", sans-serif; 
+    --font-hanken-grotesk:"Hanken Grotesk", sans-serif; 
+
+    --color-light-slate-blue: hsl(252,100%,67%);
+    --color-light-royal-blue: hsl(241,81%,54%);
+    --color-violet-blue: hsla(256,72%,46%,1);
+    --color-persian-blue: hsla(241,72%,46%,.1);
+    --color-pale-blue: hsl(221,100%,96%);
+    --color-light-lavender: hsl(241,100%,89%);
+    --color-Darkgrayblue: hsl(224,30%,27%);
+    --color-Darkgrayblue-alpha: hsla(224,30%,27%,.5);
+    --color-Lightred: hsl(0,100%,67%);
+    --color-Lightred-alpha: hsla(0,100%,67%,0.1);
+    --color-OrangeYellow: hsl(39,100%,56%);
+    --color-OrangeYellow-alpha: hsl(39,100%,56%,0.3);
+    --color-Greenteal: hsl(166,100%,37%);
+    --color-Greenteal-alpha: hsla(166,100%,37%,0.2);
+    --color-Cobaltblue: hsl(234,85%,45%);
+    --color-Cobaltblue-alpha: hsla(234,85%,45%,0.2);
+    
+
+  }
